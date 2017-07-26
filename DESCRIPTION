@@ -1,0 +1,10 @@
+Package: LDLC
+Title: Creates Percentile Table And Estimates LDL-C ( A Response Variable)  Given A Data Frame
+Version: 0.0.0.1
+Authors@R: person("Netsanet", "Gebremedhin", email = "gnetsanet@gmail.com", role = c("aut", "cre"))
+Description: This package contains two functions. The first function creates a percentile table given a data frame while the second estimates LDL-C ( aresponse variable)  given a data frame containing study samples' demographic information and results of measurements of tests such as Total-C, HDL-C, Triglycerides, Glucose, C-Reactive Protein ... etc  
+Depends: R (>= 3.4.1)
+License: GNU General Public License (GPL)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
